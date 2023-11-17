@@ -8,11 +8,11 @@
         <version>3.1.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ar.edu.utn.frc.tup.lciii</groupId>
-    <artifactId>lciii-scaffolding</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>lciii-scaffolding</name>
-    <description>LCII Initial Scaffolding</description>
+    <groupId>ar.edu.utn.frc.tup.lc.iv</groupId>
+    <artifactId>parcial-2-elecciones-2023</artifactId>
+    <version>0.0.1</version>
+    <name>Parcial 2 - Elecciones 2023</name>
+    <description>Parcial 2 - Elecciones 2023</description>
     <properties>
         <java.version>17</java.version>
     </properties>

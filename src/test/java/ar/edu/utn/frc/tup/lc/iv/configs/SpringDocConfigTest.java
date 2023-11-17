@@ -1,4 +1,4 @@
-package ar.edu.utn.frc.tup.lciii.configs;
+package ar.edu.utn.frc.tup.lc.iv.configs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
