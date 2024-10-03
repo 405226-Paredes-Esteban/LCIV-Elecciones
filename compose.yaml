@@ -1,0 +1,16 @@
+services:
+  profe-api:
+    image: tupfrcutn/elecciones-2023:2.0.0
+    container_name: profe-api
+    ports:
+      - "8080:8080"
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8081"
+    depends_on:
+      - profe-api
+
