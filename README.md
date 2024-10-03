@@ -273,3 +273,4 @@ curl --location 'http://localhost:8080/resultados?distrito_id=4&seccion_id=26'
 
 7. Entregar el proyecto con un archivo docker-compose para poder ehjecutar en simultaneo el contenedor 
 del server (la imagen **tupfrcutn/elecciones-2023:1.0.0**) y el cliente (nuestra app) <span style="color:red">**(20 puntos)**</span># LCIV-Elecciones
+# LCIV-Elecciones
